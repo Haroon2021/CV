@@ -45,8 +45,9 @@ _Economist_
 http://www.iea.org.uk/sites/default/files/publications/files/Will%20flatlining%20become%20normal%20.pdf
 - Responsible for producing a publication about inflation, which went directly to clients.
 
-**Private clients** (December 2009 to Present)
-_Tutor_
+**Private Clients** (December 2009 to Present)  
+Tutor
+
 - Presenting information in a concise and logical manner to ensure the tutee is able to follow the material.
 - I developed good communication skills, which were instrumental in ensuring pupils succeeded in their exams. Guiding them through the notes and explaining details in a clear manner.
 - Identifying key resources to ensure that students are able to grasp key concepts.
