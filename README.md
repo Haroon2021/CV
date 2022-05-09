@@ -29,7 +29,7 @@ _Senior Analytics Executive_
 - Delivered bespoke analysis for Google which showed the optimal frequency at which to maximise sales.
 
 **Data2Decisions** (October 2013 to August 2014, June 2016 to Feb 2018)
-Consultant
+_Consultant_
 - Market mix modelling; using statistical techniques to analyse how effective marketing campaigns, pricing policies and promotions are.
 - Data sorting and analysis in Excel; preparing data for use in an Econometric modelling tool, and identifying key trends within the data.
 - Talking to management to understand what they want from the database and implementing a feasible solution. Developing a process to standardise the database inputs going forward to ensure consistency from any analysis taken from the database.
@@ -37,7 +37,7 @@ Consultant
 - Analyse and interpret benchmark results from the database.
 
 **Economic Perspectives** (May 2011 to August 2013)
-Economist
+_Economist_
 - Research and analyse economic data from various sources including the ONS, BIS, CEIC and others, in order to formulate and express ideas concerning the development of the Economy.
 - Published a paper in the Institute of Economic Affairs on the sustainable UK growth rate:  
 http://www.iea.org.uk/sites/default/files/publications/files/Will%20flatlining%20become%20normal%20.pdf
