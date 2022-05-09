@@ -28,8 +28,10 @@ _Senior Analytics Executive_
 - Contributing to Post Campaign Analysis by producing insights from robust statistical analysis to assess the contributions of each media channel/ creative.
 - Delivered bespoke analysis for Google which showed the optimal frequency at which to maximise sales.
 
-**Data2Decisions** (October 2013 to August 2014, June 2016 to Feb 2018)
+**Data2Decisions** (October 2013 to August 2014 and June 2016 to Feb 2018)
+
 _Consultant_
+
 - Market mix modelling; using statistical techniques to analyse how effective marketing campaigns, pricing policies and promotions are.
 - Data sorting and analysis in Excel; preparing data for use in an Econometric modelling tool, and identifying key trends within the data.
 - Talking to management to understand what they want from the database and implementing a feasible solution. Developing a process to standardise the database inputs going forward to ensure consistency from any analysis taken from the database.
