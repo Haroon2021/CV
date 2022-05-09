@@ -1,77 +1,86 @@
 ## Haroon Fatih
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a Makers Software developer graduate with the goal of breaking into the tech industry. Prior to Makers I have over 8 years’ experience working in both consultancy and client-side with a wide range of transferable abilities including: problem solving, analytical and quantitative skills. i am interested in technology because it opens up a world of possibilities; just think about the fact that there are over 198 million active websites in the world.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Final project - Juno Card Game** | A webapp to play a card game | React, Javascript, HTML, CSS |
+| **Acebook** | A clone of Facebook | MongoDB, Express, Node.js, CSS, & Heroku|
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sky** (August 2019 to November 2021)  
+_Econometrician_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+- Market mix modelling to assess the effectiveness of multi million pounds of marketing spend
+- Improved efficiency by automating some data processing tasks using Python.
+- Optimised media spend using Trading media spend for Broadband.
+- Produced Excel training exercises to help onboard and up-skill new employees.
 
 
-#### This Skill
+**Essence Global (WPP)** (March 2019 to July 2019)  
+_Senior Analytics Executive _
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- Developed and presented Measurement plans to Google which illustrate how to measure digital media effectiveness through experimental design.
+- Preparation and analysis of advertising campaign data using SQL and Python.
+- Contributing to Post Campaign Analysis by producing insights from robust statistical analysis to assess the contributions of each media channel/ creative.
+- Delivered bespoke analysis for Google which showed the optimal frequency at which to maximise sales.
 
-#### Another Skill
+**Data2Decisions** (October 2013 to August 2014, June 2016 to Feb 2018)
+Consultant
+- Market mix modelling; using statistical techniques to analyse how effective marketing campaigns, pricing policies and promotions are.
+- Data sorting and analysis in Excel; preparing data for use in an Econometric modelling tool, and identifying key trends within the data.
+- Talking to management to understand what they want from the database and implementing a feasible solution. Developing a process to standardise the database inputs going forward to ensure consistency from any analysis taken from the database.
+- Managed team members in the company to update our database.
+- Analyse and interpret benchmark results from the database.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+**Economic Perspectives** (May 2011 to August 2013)
+Economist
+- Research and analyse economic data from various sources including the ONS, BIS, CEIC and others, in order to formulate and express ideas concerning the development of the Economy.
+- Published a paper in the Institute of Economic Affairs on the sustainable UK growth rate:  
+http://www.iea.org.uk/sites/default/files/publications/files/Will%20flatlining%20become%20normal%20.pdf
+- Responsible for producing a publication about inflation, which went directly to clients.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Tutor** (December 2009 to Apresent)
+Economist
+- Presenting information in a concise and logical manner to ensure the tutee is able to follow the material.
+- I developed good communication skills, which were instrumental in ensuring pupils succeeded in their exams. Guiding them through the notes and explaining details in a clear manner.
+- Identifying key resources to ensure that students are able to grasp key concepts.
+
+## Communication
+
+-When pairing during makers I communicated the way I was thinking about solving various challenges we were given.
+-Whilst tutoring I have to effectively communicate ideas to students so that they understand concepts and can use them to improve their grades.
+-Publishing articles as an Economist required good communication skills to ensure that concepts could be understood by the client.
+
+## Attention to detail
+-Whilst working on the Makers course I had to use attention to detail to read the error messages and debug effectively.
+-Whilst data processing in my previous roles I had to pay attention to detail in order to ensure that the data used for various purposes was accurate.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (December 2021 to April 2022)
+- Final project, making a card game using React.
+- Languages/ framework: Javascript, React, Ruby, HTML, CSS, SQL and MongoDB.
+- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- OOP, TDD, MVC
+- Agile
+- React, JavaScript
+- RSpec, Jest
 
-#### Your University / College (start_date to end_date)
+#### University of Southampton (2014 to 2015)
+MSc Actuarial Science
+- Modules including: Probability, Statistics, Stochastic Processes, Finance and Accounting.
+- Final dissertation: ‘Pure Jump Lévy Processes in Finance’, I used the R programming language to model these processes.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### London School of Economics (2008 to 2010)
+MSc Economics
+- Dissertation: ‘What are the sources of gains from a Takeover and how are they distributed?’.
+- Modules:  Microeconomics, Macroeconomics, Econometrics and Capital Markets.
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+#### University of Essex (2005 to 2008)
+BSc Economics (First Class Honours)
+- Dissertation: the long run convergence of GDP per capita across countries (Graded as First).
+- Specilising in Industrial Organization and Management Economics.
