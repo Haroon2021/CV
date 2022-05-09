@@ -14,14 +14,14 @@ I am a Makers Software developer graduate with the goal of breaking into the tec
 **Sky** (August 2019 to November 2021)  
 _Econometrician_
 
-- Market mix modelling to assess the effectiveness of multi million pounds of marketing spend
+- Market mix modelling to assess the effectiveness of multi million pounds of marketing spend.
 - Improved efficiency by automating some data processing tasks using Python.
 - Optimised media spend using Trading media spend for Broadband.
 - Produced Excel training exercises to help onboard and up-skill new employees.
 
 
 **Essence Global (WPP)** (March 2019 to July 2019)  
-_Senior Analytics Executive _
+_Senior Analytics Executive_
 
 - Developed and presented Measurement plans to Google which illustrate how to measure digital media effectiveness through experimental design.
 - Preparation and analysis of advertising campaign data using SQL and Python.
@@ -51,20 +51,20 @@ Economist
 
 ## Communication
 
--When pairing during makers I communicated the way I was thinking about solving various challenges we were given.
--Whilst tutoring I have to effectively communicate ideas to students so that they understand concepts and can use them to improve their grades.
--Publishing articles as an Economist required good communication skills to ensure that concepts could be understood by the client.
+- When pairing during makers I communicated the way I was thinking about solving various challenges we were given.
+- Whilst tutoring I have to effectively communicate ideas to students so that they understand concepts and can use them to improve their grades.
+- Publishing articles as an Economist required good communication skills to ensure that concepts could be understood by the client.
 
 ## Attention to detail
--Whilst working on the Makers course I had to use attention to detail to read the error messages and debug effectively.
--Whilst data processing in my previous roles I had to pay attention to detail in order to ensure that the data used for various purposes was accurate.
+- Whilst working on the Makers course I had to use attention to detail to read the error messages and debug effectively.
+- Whilst data processing in my previous roles I had to pay attention to detail in order to ensure that the data used for various purposes was accurate.
 
 ## Education
 
 #### Makers Academy (December 2021 to April 2022)
 - Final project, making a card game using React.
 - Languages/ framework: Javascript, React, Ruby, HTML, CSS, SQL and MongoDB.
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
+- Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
 - OOP, TDD, MVC
 - Agile
 - React, JavaScript
