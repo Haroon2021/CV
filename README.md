@@ -28,8 +28,7 @@ _Senior Analytics Executive_
 - Contributing to Post Campaign Analysis by producing insights from robust statistical analysis to assess the contributions of each media channel/ creative.
 - Delivered bespoke analysis for Google which showed the optimal frequency at which to maximise sales.
 
-**Data2Decisions** (October 2013 to August 2014 and June 2016 to Feb 2018)
-
+**Data2Decisions** (October 2013 to August 2014 and June 2016 to Feb 2018)  
 _Consultant_
 
 - Market mix modelling; using statistical techniques to analyse how effective marketing campaigns, pricing policies and promotions are.
@@ -38,8 +37,9 @@ _Consultant_
 - Managed team members in the company to update our database.
 - Analyse and interpret benchmark results from the database.
 
-**Economic Perspectives** (May 2011 to August 2013)
+**Economic Perspectives** (May 2011 to August 2013)  
 _Economist_
+
 - Research and analyse economic data from various sources including the ONS, BIS, CEIC and others, in order to formulate and express ideas concerning the development of the Economy.
 - Published a paper in the Institute of Economic Affairs on the sustainable UK growth rate:  
 http://www.iea.org.uk/sites/default/files/publications/files/Will%20flatlining%20become%20normal%20.pdf
