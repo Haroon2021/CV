@@ -52,13 +52,15 @@ Tutor
 - I developed good communication skills, which were instrumental in ensuring pupils succeeded in their exams. Guiding them through the notes and explaining details in a clear manner.
 - Identifying key resources to ensure that students are able to grasp key concepts.
 
-## Communication
+## Skills
+
+**Communication**
 
 - When pairing during makers I communicated the way I was thinking about solving various challenges we were given.
 - Whilst tutoring I have to effectively communicate ideas to students so that they understand concepts and can use them to improve their grades.
 - Publishing articles as an Economist required good communication skills to ensure that concepts could be understood by the client.
 
-## Attention to detail
+**Attention to detail**
 - Whilst working on the Makers course I had to use attention to detail to read the error messages and debug effectively.
 - Whilst data processing in my previous roles I had to pay attention to detail in order to ensure that the data used for various purposes was accurate.
 
