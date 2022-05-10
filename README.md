@@ -27,7 +27,7 @@ _Senior Analytics Executive_
 - Developed and presented Measurement plans to Google which illustrate how to measure digital media effectiveness through experimental design.
 - Preparation and analysis of advertising campaign data using SQL and Python.
 - Contributing to Post Campaign Analysis by producing insights from robust statistical analysis to assess the contributions of each media channel/ creative.
-- Delivered bespoke analysis for Google which showed the optimal frequency at which to maximize sales.
+- Delivered bespoke analysis for Google, which showed the optimal frequency at which to maximize sales.
 
 
 **Data2Decisions** (October 2013 to August 2014 and June 2016 to Feb 2018)  
