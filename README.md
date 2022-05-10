@@ -1,12 +1,12 @@
 ## Haroon Fatih
 
-I am a Makers Software developer graduate with the goal of breaking into the tech industry. Prior to Makers I have over 8 years’ experience working in both consultancy and client-side with a wide range of transferable abilities including: problem solving, analytical and quantitative skills. i am interested in technology because it opens up a world of possibilities; just think about the fact that there are over 198 million active websites in the world.
+I am a Makers Software developer graduate with the goal of breaking into the tech industry. Prior to Makers I have over 8 years’ experience working in both consultancy and client-side with a wide range of transferable abilities including: problem-solving, analytical and quantitative skills. I am interested in technology because it opens up a world of possibilities; just think about the fact that there are over 198 million active websites in the world.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project - Juno Card Game** | A webapp to play a card game | React, Javascript, HTML, CSS |
+| **Final project - Juno Card Game** | A web app to play a card game | React, JavaScript, HTML, CSS |
 | **Acebook** | A clone of Facebook | MongoDB, Express, Node.js, CSS, & Heroku|
 
 ## Work Experience
