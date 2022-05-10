@@ -44,7 +44,7 @@ _Consultant_
 _Economist_
 
 - Research and analyse economic data from various sources including the ONS, BIS, CEIC and others, in order to formulate and express ideas concerning the development of the Economy.
-- Published a paper in the Institute of Economic Affairs on the sustainable UK growth rate, [link here] (http://www.iea.org.uk/sites/default/files/publications/files/Will%20flatlining%20become%20normal%20.pdf)
+- Published a paper in the Institute of Economic Affairs on the sustainable UK growth rate, [link here](http://www.iea.org.uk/sites/default/files/publications/files/Will%20flatlining%20become%20normal%20.pdf)
 
 - Responsible for producing a publication about inflation, which went directly to clients.
 
