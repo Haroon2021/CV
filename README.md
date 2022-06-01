@@ -77,6 +77,7 @@ Tutor
 - Final project, making a card game using React.
 - Languages/ framework: JavaScript, Express, Node, React, Ruby, HTML, CSS, SQL and MongoDB.
 - Frequently used paring in order to problem-solve efficiently, requiring teamwork and communication.
+- EQ training; empathy, feedback, teamwork.
 - OOP, TDD, MVC
 - Agile
 - RSpec, Jest
