@@ -79,7 +79,6 @@ Tutor
 - Frequently used paring in order to problem-solve efficiently, requiring teamwork and communication.
 - OOP, TDD, MVC
 - Agile
-- React, JavaScript
 - RSpec, Jest
 
 
