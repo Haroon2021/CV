@@ -8,6 +8,9 @@ I am a Makers Software developer graduate with the goal of breaking into the tec
 | ---------------------------- | ----------------- | ----------------- |
 | [**Final project - Juno Card Game**](https://github.com/meghanblyth/Juno_game) | A web app to play a card game | React, JavaScript, HTML, CSS |
 | [**Acebook**](https://github.com/nelsonclaire/acebook-jest-in-time) | A clone of Facebook | MongoDB, Express, Node.js, CSS, & Heroku|
+| [**Tetris**](https://github.com/Haroon2021/Tetris) | A clone of Tetris | JavaScript, HTML and CSS|
+
+
 
 ## Work Experience
 
